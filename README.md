@@ -13,7 +13,7 @@ I learn by building, breaking things, and fixing them again.
 - Databases & server-side logic
 - Writing cleaner and more maintainable code
 
-- ### Fun facts
+### Fun facts
 - I enjoy minimal and thoughtful design
 - I like understanding systems deeply, not just using them
 - Always curious, always learning
