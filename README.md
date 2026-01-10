@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**Pulsenode/Pulsenode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Clement**, a computer science student.
 
-Here are some ideas to get you started:
+I enjoy learning how things work under the hood and building simple, reliable systems.
+Most of my time is spent improving my backend skills and understanding servers, APIs, and databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I learn by building, breaking things, and fixing them again.
+
+### Current focus
+- Backend development
+- Node.js & APIs
+- Databases & server-side logic
+- Writing cleaner and more maintainable code
+
+- ### Fun facts
+- I enjoy minimal and thoughtful design
+- I like understanding systems deeply, not just using them
+- Always curious, always learning
