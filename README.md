@@ -1,19 +1,14 @@
-## Hey there 👋
+# Pulsenode
 
-I'm **Clement**, a computer science student.
+Hi, I’m **Clément Dedieu** — a Computer Science student focused on building reliable systems and scalable backend applications.
+I focus on understanding how things work, from server logic to data flow and system design.
+I learn by building real projects, breaking them, and improving them.
 
-I enjoy learning how things work under the hood and building simple, reliable systems.
-Most of my time is spent improving my backend skills and understanding servers, APIs, and databases.
+---
 
-I learn by building, breaking things, and fixing them again.
+### Languages and Tools
 
-### Current focus
-- Backend development
-- Node.js & APIs
-- Databases & server-side logic
-- Writing cleaner and more maintainable code
-
-### Fun facts
-- I enjoy minimal and thoughtful design
-- I like understanding systems deeply, not just using them
-- Always curious, always learning
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
