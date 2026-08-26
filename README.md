@@ -1,6 +1,6 @@
 # Pulsenode
 
-Hi, I’m **Clément Dedieu** — a Computer Science student focused on building reliable systems and scalable backend applications.
+Hi, I’m **Clément Dedieu** — a Information Technology student focused on building reliable systems and scalable backend applications.
 I focus on understanding how things work, from server logic to data flow and system design.
 I learn by building real projects, breaking them, and improving them.
 
